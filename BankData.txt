@@ -1,0 +1,15 @@
+ Saved at: 30.10.2023 13:39:02
+ Name: Testname
+ Money: 3021
+ Percent: 22
+---------------------
+ Saved at: 30.10.2023 13:39:17
+ Name: Testname
+ Money: 4432
+ Percent: 22
+---------------------
+ Saved at: 30.10.2023 13:39:25
+ Name: Testname
+ Money: 4432
+ Percent: 55
+---------------------
