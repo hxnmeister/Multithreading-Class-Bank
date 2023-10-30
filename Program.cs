@@ -16,7 +16,7 @@ namespace Multithreading__Class_Bank_
             int money = 0;
             int percent = 0;
             Bank bank = null;
-            char choice = ' ';
+            char choice;
             string name = null;
 
             do
@@ -57,7 +57,8 @@ namespace Multithreading__Class_Bank_
                         }
                         else
                         {
-                            char subChoice = ' ';
+                            char subChoice;
+
                             do
                             {
                                 Console.WriteLine("\n Choose field to edit:\n");
